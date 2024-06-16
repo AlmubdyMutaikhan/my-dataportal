@@ -81,6 +81,6 @@ This project is deployed on [vercel](https://my-dataportal.vercel.app/), [netlif
 
 ## Demo Video
 
-For a walkthrough of this project, watch the demo video on Loom: [insert loom video link here].
+For a walkthrough of this project, watch the demo video on Loom: [link](https://www.loom.com/share/8a8c8964aee7446596ff06ce75d51bdb?sid=83225296-6097-4cbc-b9f2-9f43c83b04bf).
 
 Thank you for exploring the Startup Fundraising in India data portal!
