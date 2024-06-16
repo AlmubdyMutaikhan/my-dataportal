@@ -77,7 +77,7 @@ Ensure you have Node.js installed on your machine. Then follow these steps:
 
 ## Deployment
 
-This project is deployed on [https://my-dataportal.vercel.app/, https://my-data-portal-js.netlify.app/], and you can access it at [insert deployment URL here].
+This project is deployed on [vercel](https://my-dataportal.vercel.app/), [netlify](https://my-data-portal-js.netlify.app/).
 
 ## Demo Video
 
