@@ -1,7 +1,7 @@
 # Welcome to My Data Portal!
 
 ## Dataset Topic
-Startup Fundraising in India Before and After the Pandemic
+Startup Fundraising in India Before and During the Pandemic
 
 ## Motivation
 In the tech world, the startup industry plays a crucial role. I was curious about how fundraising dynamics might have changed due to the pandemic. To explore this, I found a comprehensive [dataset on Kaggle](https://www.kaggle.com/datasets/arpan129/startups-funding-dataset) that details startup fundraising activities in India.

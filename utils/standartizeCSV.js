@@ -4,7 +4,7 @@ const fs = require('fs');
 
 async function processStartupFundraising(year) {
     const srcFile = `./utils/unprocessed/unprocessed-startup-fundraising-${year}.csv`;
-    const destFile = `startup-fundraising-${year}.csv`;
+    const destFile = `./utils/startup-fundraising-${year}.csv`;
     const results = [];
 
     const dataStream = fs.createReadStream(srcFile).pipe(csv());
