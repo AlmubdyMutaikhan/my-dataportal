@@ -1,6 +1,6 @@
 PortalJS Learn Example - https://portaljs.org/docs
 
-# Startup Fundraising in India: Before and After the Pandemic
+# Startup Fundraising in India: Before and During the Pandemic
 ![alt text](image.png)
 Explore interactive visualizations of startup fundraising activities in India, comparing data from before and after the COVID-19 pandemic. This data portal aims to uncover the impacts of the pandemic on the startup ecosystem in India.
 
